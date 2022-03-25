@@ -1,0 +1,3 @@
+refer to the paper:
+
+Adaptive Bipartite Time-Varying Formation Control for Multi-Agent Systems on Directed Graph
